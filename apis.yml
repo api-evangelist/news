@@ -1,0 +1,32 @@
+aid: news
+name: News
+description: "Headlines currently published on a range of news sources and blogs"
+url: https://newsapi.org/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "News"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - News
+  - Public APIs
+apis:
+  - name: News
+    description: "Headlines currently published on a range of news sources and blogs"
+    humanURL: https://newsapi.org/
+    baseURL: https://newsapi.org/
+    tags:
+      - News
+    properties:
+      - type: Documentation
+        url: https://newsapi.org/
+common:
+  - type: Website
+    url: https://newsapi.org/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
