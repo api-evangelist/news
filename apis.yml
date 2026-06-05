@@ -12,6 +12,7 @@ x-tier-reason: bulk-registered-from-public-apis
 tags:
   - News
   - Public APIs
+  - Fortune 500
 apis:
   - name: News
     description: "Headlines currently published on a range of news sources and blogs"
