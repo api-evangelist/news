@@ -24,6 +24,8 @@ apis:
       - type: Documentation
         url: https://newsapi.org/
 common:
+  - type: DomainSecurity
+    url: security/news-domain-security.yml
   - type: Website
     url: https://newsapi.org/
   - type: PublicAPIsListing
